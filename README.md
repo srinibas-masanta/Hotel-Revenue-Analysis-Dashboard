@@ -40,7 +40,7 @@ This project involves analyzing historical booking data to derive key insights a
 
 ## Dataset
 
-The project utilizes five datasets containing meta information about the bookings, hotels, rooms, and dates:
+The project utilizes five datasets containing data about the bookings, hotels, rooms, and dates:
 
 1. **dim_date.csv**
    - Columns: `date`, `mmm yy`, `week no`, `day_type`
